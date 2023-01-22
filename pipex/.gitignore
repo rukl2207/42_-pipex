@@ -1,0 +1,15 @@
+.DS_Store
+#*temp*
+#*tmp*
+#*test*
+*.out
+subject
+old
+*.o
+#*.txt
+src_mandatory_old/
+#tmp_files/
+.vscode/
+pipex
+pipex_bonus
+.idea/
